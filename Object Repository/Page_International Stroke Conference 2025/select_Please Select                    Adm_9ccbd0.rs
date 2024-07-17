@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Please Select                    Adm_9ccbd0</name>
+   <tag></tag>
+   <elementGuidId>8027ff35-5610-4131-9b1e-af83fd2a4445</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#ExtraInfo1</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='ExtraInfo1']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Specialty&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>8ea0b051-812e-4fc6-8206-e17ef7ea1ecc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>ExtraInfo1</value>
+      <webElementGuid>3e218440-bad4-4791-8d0c-011afda6fb26</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>ExtraInfo1</value>
+      <webElementGuid>3dc6a825-6e32-44ce-a103-c777326186bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-datarecall</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>6a242e2d-2857-4d35-860f-b0c15ddf49d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-mbrrecall</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>88208ccd-2efa-4c4e-a1f2-9704a1507704</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control required</value>
+      <webElementGuid>a64e815e-ecec-4435-8287-f707a94d5f33</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                    Please Select
+                    AdministrationAllergy and ImmunologyAnatomyAnesthesiologyArteriosclerosisArtificial IntelligenceBehavioral Sciences/MedicineBiochemistryBiological SciencesBiomedical EngineerBiophysicsBrain HealthCardio-OncologyCardiology: CV ImagingCardiology: CV RadiologyCardiology: EchocardiographyCardiology: ElectrophysiologyCardiology: General CardiologyCardiology: GeneticsCardiology: Heart FailureCardiology: InterventionalCardiology: PediatricCardiology: PreventionCardiology: Professional EducationCardiology: TransplantationCell BiologyChemistryClinical PharmacologyCommunity Health WorkerComputational BiologyComputer EngineeringCritical Care /Intensive CareDiabetes and MetabolismDieteticsEmergency MedicineEndocrinologyEpidemiologyFamily MedicineGeneticsGerontologyHealth EducatorHealth InformaticsHematologyHypertensionImplementation ScientistInfectious DiseasesInternal MedicineInterventional NeuroradiologistInterventional RadiologyLifestyle MedicineMicrobiologyMolecular BiologyNephrologyNeuro/Neurosci: CognitionNeurology: Brain Aneurysm/SAHNeurology: Brain Vascular MalformationNeurology: Critical CareNeurology: DementiaNeurology: EndovascularNeurology: GeneralNeurology: ImagingNeurology: InterventionalNeurology: Intracerebral HemorrhageNeurology: Ischemic StrokeNeurology: PediatricNeurology: Rehabilitation and RecoveryNeurology: StrokeNeurology: SurgeryNeuroradiology: DiagnosticNeuroradiology: InterventionalNeuroscience: CognitiveNeuroscience: DementiaNeuroscience: GeneticsNeuroscience: Vascular SurgeryNeurosurgery: EndovascularNeurosurgery: VascularNutritionObstetrics and GynecologyOccupational HealthOccupational TherapyPathologyPatient Outcome AssessmentPatient Reported Outcome MeasuresPediatrics NeurologyPediatrics: Pediatrics Non-CardiologyPharmaceutical IndustryPharmacologyPharmacyPhysiologyPodiatryPopulation HealthPreventative MedicinePsychiatryPsychologyPublic HealthPulmonary MedicineQuality of Health CareRadiology: CTRadiology: DiagnosticRadiology: InterventionalRadiology: MRARadiology: NeurologyRadiology: NuclearRehab: CardiacRehab: Physical TherapyRehab: PhysiologyRehab: Rehab MedicineRehab: StrokeSpeech Language PathologySurgery: CardiothoracicSurgery: GeneralSurgery: NeurologySurgery: TraumaSurgery: VascularThrombosisVascular Medicine
+                </value>
+      <webElementGuid>ec12975e-0fc4-48aa-9bf6-d7f681789cb0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ExtraInfo1&quot;)</value>
+      <webElementGuid>fd2a9909-5f91-40c5-bb53-7cc0f2025af6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='ExtraInfo1']</value>
+      <webElementGuid>42cbb298-c99a-4136-951c-b8675de9067e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='Row_ExtraInfo1']/div/div/div/select</value>
+      <webElementGuid>f46c4424-133e-4377-af01-855a82c42924</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Specialty'])[1]/following::select[1]</value>
+      <webElementGuid>70e6b65d-b7ba-44cf-9846-6040f87d3725</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Customer Segment'])[1]/following::select[2]</value>
+      <webElementGuid>1e07d682-323d-49d6-8849-2c126d12cc53</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Name and Institution'])[1]/preceding::select[1]</value>
+      <webElementGuid>fde6c569-54bf-4341-b0d9-5d5ba4b8ce33</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Prefix'])[1]/preceding::select[1]</value>
+      <webElementGuid>39710890-afb1-402e-8bf0-876b44c75f80</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div/select</value>
+      <webElementGuid>2508f43d-113e-4a6d-8baa-54711b9f4501</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'ExtraInfo1' and @name = 'ExtraInfo1' and (text() = '
+                    Please Select
+                    AdministrationAllergy and ImmunologyAnatomyAnesthesiologyArteriosclerosisArtificial IntelligenceBehavioral Sciences/MedicineBiochemistryBiological SciencesBiomedical EngineerBiophysicsBrain HealthCardio-OncologyCardiology: CV ImagingCardiology: CV RadiologyCardiology: EchocardiographyCardiology: ElectrophysiologyCardiology: General CardiologyCardiology: GeneticsCardiology: Heart FailureCardiology: InterventionalCardiology: PediatricCardiology: PreventionCardiology: Professional EducationCardiology: TransplantationCell BiologyChemistryClinical PharmacologyCommunity Health WorkerComputational BiologyComputer EngineeringCritical Care /Intensive CareDiabetes and MetabolismDieteticsEmergency MedicineEndocrinologyEpidemiologyFamily MedicineGeneticsGerontologyHealth EducatorHealth InformaticsHematologyHypertensionImplementation ScientistInfectious DiseasesInternal MedicineInterventional NeuroradiologistInterventional RadiologyLifestyle MedicineMicrobiologyMolecular BiologyNephrologyNeuro/Neurosci: CognitionNeurology: Brain Aneurysm/SAHNeurology: Brain Vascular MalformationNeurology: Critical CareNeurology: DementiaNeurology: EndovascularNeurology: GeneralNeurology: ImagingNeurology: InterventionalNeurology: Intracerebral HemorrhageNeurology: Ischemic StrokeNeurology: PediatricNeurology: Rehabilitation and RecoveryNeurology: StrokeNeurology: SurgeryNeuroradiology: DiagnosticNeuroradiology: InterventionalNeuroscience: CognitiveNeuroscience: DementiaNeuroscience: GeneticsNeuroscience: Vascular SurgeryNeurosurgery: EndovascularNeurosurgery: VascularNutritionObstetrics and GynecologyOccupational HealthOccupational TherapyPathologyPatient Outcome AssessmentPatient Reported Outcome MeasuresPediatrics NeurologyPediatrics: Pediatrics Non-CardiologyPharmaceutical IndustryPharmacologyPharmacyPhysiologyPodiatryPopulation HealthPreventative MedicinePsychiatryPsychologyPublic HealthPulmonary MedicineQuality of Health CareRadiology: CTRadiology: DiagnosticRadiology: InterventionalRadiology: MRARadiology: NeurologyRadiology: NuclearRehab: CardiacRehab: Physical TherapyRehab: PhysiologyRehab: Rehab MedicineRehab: StrokeSpeech Language PathologySurgery: CardiothoracicSurgery: GeneralSurgery: NeurologySurgery: TraumaSurgery: VascularThrombosisVascular Medicine
+                ' or . = '
+                    Please Select
+                    AdministrationAllergy and ImmunologyAnatomyAnesthesiologyArteriosclerosisArtificial IntelligenceBehavioral Sciences/MedicineBiochemistryBiological SciencesBiomedical EngineerBiophysicsBrain HealthCardio-OncologyCardiology: CV ImagingCardiology: CV RadiologyCardiology: EchocardiographyCardiology: ElectrophysiologyCardiology: General CardiologyCardiology: GeneticsCardiology: Heart FailureCardiology: InterventionalCardiology: PediatricCardiology: PreventionCardiology: Professional EducationCardiology: TransplantationCell BiologyChemistryClinical PharmacologyCommunity Health WorkerComputational BiologyComputer EngineeringCritical Care /Intensive CareDiabetes and MetabolismDieteticsEmergency MedicineEndocrinologyEpidemiologyFamily MedicineGeneticsGerontologyHealth EducatorHealth InformaticsHematologyHypertensionImplementation ScientistInfectious DiseasesInternal MedicineInterventional NeuroradiologistInterventional RadiologyLifestyle MedicineMicrobiologyMolecular BiologyNephrologyNeuro/Neurosci: CognitionNeurology: Brain Aneurysm/SAHNeurology: Brain Vascular MalformationNeurology: Critical CareNeurology: DementiaNeurology: EndovascularNeurology: GeneralNeurology: ImagingNeurology: InterventionalNeurology: Intracerebral HemorrhageNeurology: Ischemic StrokeNeurology: PediatricNeurology: Rehabilitation and RecoveryNeurology: StrokeNeurology: SurgeryNeuroradiology: DiagnosticNeuroradiology: InterventionalNeuroscience: CognitiveNeuroscience: DementiaNeuroscience: GeneticsNeuroscience: Vascular SurgeryNeurosurgery: EndovascularNeurosurgery: VascularNutritionObstetrics and GynecologyOccupational HealthOccupational TherapyPathologyPatient Outcome AssessmentPatient Reported Outcome MeasuresPediatrics NeurologyPediatrics: Pediatrics Non-CardiologyPharmaceutical IndustryPharmacologyPharmacyPhysiologyPodiatryPopulation HealthPreventative MedicinePsychiatryPsychologyPublic HealthPulmonary MedicineQuality of Health CareRadiology: CTRadiology: DiagnosticRadiology: InterventionalRadiology: MRARadiology: NeurologyRadiology: NuclearRehab: CardiacRehab: Physical TherapyRehab: PhysiologyRehab: Rehab MedicineRehab: StrokeSpeech Language PathologySurgery: CardiothoracicSurgery: GeneralSurgery: NeurologySurgery: TraumaSurgery: VascularThrombosisVascular Medicine
+                ')]</value>
+      <webElementGuid>021870a7-75a8-4f79-b9c4-17f2d7a83cd5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

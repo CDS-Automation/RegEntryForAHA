@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Add a Registrant</name>
+   <tag></tag>
+   <elementGuidId>97b850eb-f038-41cb-8dcc-f193ae3248ac</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.btn.btn-primary.btn-lg</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='add']/div/p/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;+ Add a Registrant&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>96ec8c12-3a3a-41f7-a316-0db74861d9c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary btn-lg</value>
+      <webElementGuid>435daa61-99de-4e55-b85e-189b2d5748c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>reginfo.asp?o=30049&amp;b=200079&amp;pb=200079</value>
+      <webElementGuid>ae486b27-6a96-4b28-83c5-1abcdea29e97</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>  Add a Registrant</value>
+      <webElementGuid>de4a0ccb-b7f5-4ec2-9e2c-af053321c9ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;add&quot;)/div[@class=&quot;buttonArea text-center&quot;]/p[1]/a[@class=&quot;btn btn-primary btn-lg&quot;]</value>
+      <webElementGuid>48e84984-3bd0-4953-ba47-58159e605840</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='add']/div/p/a</value>
+      <webElementGuid>84075c54-bd97-4274-a680-6a0c5cd4295a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Add a Registrant')]</value>
+      <webElementGuid>91e38408-351e-4227-a8b8-01b04f7fd1cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='InternationalStroke@xpressreg.net'])[1]/following::a[1]</value>
+      <webElementGuid>f96394f5-78f0-4ef1-ad9b-add6e0b25318</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Step 3: Completed Registrations'])[2]/preceding::a[2]</value>
+      <webElementGuid>6a259b97-ff1f-4152-88da-d57bb4ee644f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'reginfo.asp?o=30049&amp;b=200079&amp;pb=200079')]</value>
+      <webElementGuid>d46f5f63-366c-4724-85fd-e23b0745b460</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/p/a</value>
+      <webElementGuid>87919c7c-64b4-4a2a-9946-572f1e675d2a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'reginfo.asp?o=30049&amp;b=200079&amp;pb=200079' and (text() = '  Add a Registrant' or . = '  Add a Registrant')]</value>
+      <webElementGuid>35e17c18-3523-405a-b2ef-fedb39cdff43</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
